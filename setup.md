@@ -1,49 +1,21 @@
 ---
-title: Setup
+title: Setup/Equipment
 ---
 
-Setup instructions live in this document. Please specify the tools and the data
-sets the Learner needs to have installed.
+## Equipment
 
-## Data Sets
+You will need the following equipment to bake these sourdough cinnamon rolls:
 
-Download the [data zip file](data/data.zip) and unzip it to your Desktop
+- Baking vessel, you could use one of the following:
+  - 12" cast iron skillet
+  - Deep baking tray (metal or enamel)
+  - Springform pan
+- Mixing bowls
+- Bench scraper (can also use a knife)
+- Box grater
+- Spatula or wooden spoon
+- Pastry brush (not strictly necessary, but helpful)
 
-## Software Setup
+## Ingredients
 
-::::::::::::::::::::::::::::::::::::::: discussion
-
-### Details
-
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### Windows
-
-Use PuTTY
-
-:::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### MacOS
-
-Use Terminal.app
-
-:::::::::::::::::::::::::
-
-
-:::::::::::::::: solution
-
-### Linux
-
-Use Terminal
-
-:::::::::::::::::::::::::
-
+You will also need all the ingredients listed on the [ingredients page](recipe_ingredients.html).
